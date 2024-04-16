@@ -31,6 +31,8 @@
 		<false/>
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>Allow access to the photo library for selecting images</string>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
